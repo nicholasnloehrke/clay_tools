@@ -1,6 +1,6 @@
 Hi Sabrina,
 
-Download [FreeCAD](https://www.freecad.org/downloads.php) to edit the model.
+Download [FreeCAD](https://www.freecad.org/downloads.php) to edit the model or just download `sabrina_super_clay_tool.stl` if no modifications are desired.
 
 You can modify the position of the inner point by changing the variable set named `Sabrina Change This To Alter The Angle`.
 
